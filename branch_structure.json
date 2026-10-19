@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-346-feat-agents-enforce-registry-exposure-limits",
+    "feat/issue-379-feat-contracts-let-the-squad-fee-recipient-be",
+    "fix/issue-358-test-api-cover-the-per-instance-ttl-cache",
+    "fix/issue-381-test-contracts-assert-the-market-oracle",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-346-feat-agents-enforce-registry-exposure-limits": "main",
+    "feat/issue-379-feat-contracts-let-the-squad-fee-recipient-be": "main",
+    "fix/issue-358-test-api-cover-the-per-instance-ttl-cache": "main",
+    "fix/issue-381-test-contracts-assert-the-market-oracle": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-346-feat-agents-enforce-registry-exposure-limits",
+    "feat/issue-379-feat-contracts-let-the-squad-fee-recipient-be",
+    "fix/issue-358-test-api-cover-the-per-instance-ttl-cache",
+    "fix/issue-381-test-contracts-assert-the-market-oracle",
+    "origin"
+  ]
+}
